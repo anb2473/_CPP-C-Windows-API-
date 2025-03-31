@@ -7,4 +7,4 @@ g++ $f -o a.exe -lgdi32
 ./a.exe
 ```
 
-This should create a basic test window. From there, you can edit the `render_functions.cpp` file to edit what is rendered on the screen, or the 
+This should create a basic test window. From there, you can edit the `render_functions.cpp` file to edit what is rendered on the screen, or the `window_protocol_function.cpp` file to edit how the window events are managed.
