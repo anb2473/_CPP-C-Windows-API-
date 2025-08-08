@@ -1,3 +1,5 @@
+This project is no longer being maintained.
+
 # C / C++ Windows API
 
 This is a basic windows API for c / c++. Simply install a C / C++ compiler. (The most common is GCC, which can be downloaded at https://gcc.gnu.org/) Once installed, compile the emulator.cpp file with the following commmands:
